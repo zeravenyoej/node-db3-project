@@ -1,5 +1,5 @@
 Multi-Table Queries 
-pull request: 
+pull request: https://github.com/zeravenyoej/node-db3-project/pull/1
 
 # Multi-Table Queries and Database Helpers
 
